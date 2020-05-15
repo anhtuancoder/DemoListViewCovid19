@@ -1,0 +1,2 @@
+rootProject.name='Demo ListView Covid-19'
+include ':app'
